@@ -1,0 +1,657 @@
+Country	Most Recent Year	Most Recent Value
+(Thousands)	
+Afghanistan			
+Albania	2017	5,186.00	
+Algeria	2017	5,058.00	
+American Samoa			
+Andorra			
+Angola	1996	3.00	
+Antigua and Barbuda			
+Argentina	2017	12,258.00	
+Armenia	2017	1,482.00	
+Aruba			
+Australia	2017	10,932.00	
+Austria	2017	11,491.00	
+Azerbaijan	2017	4,109.00	
+Bahamas, The			
+Bahrain	2015	4,741.00	
+Bangladesh	2013	1,460.00	
+Barbados			
+Belarus	2017	706.00	
+Belgium	2017	12,153.00	
+Belize			
+Benin			
+Bermuda	2008	192.00	
+Bhutan			
+Bolivia	2017	1,105.00	
+Bosnia and Herzegovina			
+Botswana			
+Brazil	2017	9,458.00	
+British Virgin Islands	2012	139.00	
+Brunei Darussalam			
+Bulgaria	2017	6,228.00	
+Burkina Faso			
+Burundi	2001	35.00	
+Cabo Verde			
+Cambodia	2017	1,752.00	
+Cameroon			
+Canada	2017	33,060.00	
+Cayman Islands			
+Central African Republic	2010	38.00	
+Chad	2017	52.00	
+Channel Islands			
+Chile	2017	3,620.00	
+China	2017	143,035.00	
+Colombia	2017	4,017.00	
+Comoros			
+Congo, Dem. Rep.	2016	424.00	
+Congo, Rep.	2013	180.00	
+Costa Rica	2017	1,150.00	
+Cote d'Ivoire			
+Croatia	2017	1,923.00	
+Cuba	2016	894.00	
+Curacao			
+Cyprus	2017	1,407.00	
+Czech Republic	2017	6,775.00	
+Denmark	2017	8,102.00	
+Djibouti			
+Dominica			
+Dominican Republic	2017	522.00	
+Ecuador	2017	1,547.00	
+Egypt, Arab Rep.	2014	6,180.00	
+El Salvador	2017	1,871.00	
+Equatorial Guinea			
+Eritrea			
+Estonia	2017	1,279.00	
+Eswatini	2017	1,751.00	
+Ethiopia	1996	133.00	
+Faroe Islands			
+Fiji	2017	169.00	
+Finland	2017	9,330.00	
+France	2017	29,055.00	
+French Polynesia	2017	55.00	
+Gabon	2003	236.00	
+Gambia, The	2006	307.00	
+Georgia	2017	3,851.00	
+Germany	2017	92,402.00	
+Ghana			
+Gibraltar			
+Greece	2017	7,685.00	
+Greenland			
+Grenada			
+Guam			
+Guatemala	2017	1,328.00	
+Guinea			
+Guinea-Bissau			
+Guyana			
+Haiti			
+Honduras	2016	654.00	
+Hong Kong SAR, China	2017	91,304.00	
+Hungary	2017	20,297.00	
+Iceland	2017	619.00	
+India	2017	23,943.00	
+Indonesia	2017	8,856.00	
+Iran, Islamic Rep.	2017	10,543.00	
+Iraq			
+Ireland	2017	8,171.00	
+Isle of Man			
+Israel	2017	7,597.00	
+Italy	2017	31,805.00	
+Jamaica			
+Japan	2017	17,889.00	
+Jordan	2017	1,592.00	
+Kazakhstan	2014	10,230.00	
+Kenya			
+Kiribati			
+Korea, Dem. People?s Rep.			
+Korea, Rep.	2017	26,496.00	
+Kosovo			
+Kuwait	2007	2,649.00	
+Kyrgyz Republic	2017	4,446.00	
+Lao PDR	2017	3,049.00	
+Latvia	2017	2,055.00	
+Lebanon			
+Lesotho			
+Liberia			
+Libya	1997	650.00	
+Liechtenstein			
+Lithuania	2017	2,032.00	
+Luxembourg	2017	1,802.00	
+Macao SAR, China	2017	1,391.00	
+Madagascar	1995	39.00	
+Malawi			
+Malaysia	2004	30,761.00	
+Maldives	2008	123.00	
+Mali			
+Malta	2017	573.00	
+Marshall Islands			
+Mauritania			
+Mauritius	2017	283.00	
+Mexico	2017	19,067.00	
+Micronesia, Fed. Sts.			
+Moldova	2017	229.00	
+Monaco			
+Mongolia			
+Montenegro			
+Morocco	2017	1,849.00	
+Mozambique			
+Myanmar			
+Namibia			
+Nauru			
+Nepal	2017	1,197.00	
+Netherlands	2016	17,938.00	
+New Caledonia	2017	135.00	
+New Zealand	2017	2,853.00	
+Nicaragua	2017	982.00	
+Niger	1998	10.00	
+Nigeria			
+North Macedonia			
+Northern Mariana Islands			
+Norway	2017	8,170.00	
+Oman	2017	4,473.00	
+Pakistan			
+Palau	1998	9.00	
+Panama	2017	917.00	
+Papua New Guinea	2002	92.00	
+Paraguay	2017	1,548.00	
+Peru	2017	2,875.00	
+Philippines	2016	5,703.00	
+Poland	2017	46,700.00	
+Portugal	2017	2,195.00	
+Puerto Rico	2017	792.00	
+Qatar			
+Romania	2017	19,953.00	
+Russian Federation	2017	39,629.00	
+Rwanda			
+Samoa	2017	55.00	
+San Marino			
+Sao Tome and Principe			
+Saudi Arabia	2017	21,071.00	
+Senegal			
+Serbia			
+Seychelles	2017	74.00	
+Sierra Leone	2016	92.00	
+Singapore	2017	9,889.00	
+Sint Maarten (Dutch part)			
+Slovak Republic	2017	3,870.00	
+Slovenia	2017	3,013.00	
+Solomon Islands			
+Somalia			
+South Africa			
+South Sudan			
+Spain	2017	17,031.00	
+Sri Lanka	2017	1,439.00	
+St. Kitts and Nevis			
+St. Lucia			
+St. Martin (French part)			
+St. Vincent and the Grenadines			
+Sudan	1995	195.00	
+Suriname			
+Sweden	2017	21,232.00	
+Switzerland	2017	15,318.00	
+Syrian Arab Republic	2010	6,259.00	
+Tajikistan	2017	31.00	
+Tanzania	1996	148.00	
+Thailand	2017	8,963.00	
+Timor-Leste			
+Togo			
+Tonga			
+Trinidad and Tobago	2010	273.00	
+Tunisia	2016	1,830.00	
+Turkey	2017	8,887.00	
+Turkmenistan	2007	38.00	
+Turks and Caicos Islands			
+Tuvalu	2011	2.10	
+Uganda	2016	568.00	
+Ukraine	2017	26,437.00	
+United Arab Emirates			
+United Kingdom	2017	74,189.00	
+United States	2017	87,703.00	
+Uruguay	2017	1,789.00	
+Uzbekistan			
+Vanuatu	2017	28.00	
+Venezuela, RB	2017	1,079.00	
+Vietnam			
+Virgin Islands (U.S.)			
+West Bank and Gaza			
+Yemen, Rep.			
+Zambia			
+Zimbabwe	2017	2,768.00
+Country	Most Recent Year	Most Recent Value
+(Thousands)	
+Afghanistan			
+Albania	2017	4,643.00	
+Algeria	2017	2,451.00	
+American Samoa	2017	20.00	
+Andorra	2016	2,831.00	
+Angola	2017	261.00	
+Antigua and Barbuda	2017	247.00	
+Argentina	2017	6,720.00	
+Armenia	2017	1,495.00	
+Aruba	2017	1,070.50	
+Australia	2017	8,815.00	
+Austria	2017	29,460.00	
+Azerbaijan	2017	2,454.00	
+Bahamas, The	2017	1,439.00	
+Bahrain	2017	11,370.00	
+Bangladesh	2014	125.00	
+Barbados	2017	664.00	
+Belarus	2017	11,060.20	
+Belgium	2017	8,385.00	
+Belize	2017	427.00	
+Benin	2017	281.00	
+Bermuda	2017	270.00	
+Bhutan	2017	255.00	
+Bolivia	2017	1,134.00	
+Bosnia and Herzegovina	2017	923.00	
+Botswana	2016	1,574.00	
+Brazil	2017	6,589.00	
+British Virgin Islands	2017	335.00	
+Brunei Darussalam	2017	259.00	
+Bulgaria	2017	8,883.00	
+Burkina Faso	2017	143.00	
+Burundi	2017	299.00	
+Cabo Verde	2017	668.00	
+Cambodia	2017	5,602.00	
+Cameroon	2016	994.00	
+Canada	2017	20,798.00	
+Cayman Islands	2017	418.00	
+Central African Republic	2015	120.50	
+Chad	2017	87.00	
+Channel Islands			
+Chile	2017	6,450.00	
+China	2017	60,740.00	
+Colombia	2017	4,113.00	
+Comoros	2017	28.00	
+Congo, Dem. Rep.	2016	351.00	
+Congo, Rep.	2017	206.00	
+Costa Rica	2017	2,960.00	
+Cote d'Ivoire	2017	1,800.00	
+Croatia	2017	15,593.00	
+Cuba	2017	4,594.00	
+Curacao	2017	399.00	
+Cyprus	2017	3,652.00	
+Czech Republic	2017	10,160.00	
+Denmark	2017	11,743.00	
+Djibouti	2013	63.00	
+Dominica	2017	72.00	
+Dominican Republic	2017	6,188.00	
+Ecuador	2017	1,608.00	
+Egypt, Arab Rep.	2017	8,157.00	
+El Salvador	2017	1,556.00	
+Equatorial Guinea			
+Eritrea	2016	142.00	
+Estonia	2017	3,245.00	
+Eswatini	2017	921.00	
+Ethiopia	2017	933.00	
+Faroe Islands			
+Fiji	2017	843.00	
+Finland	2017	3,180.00	
+France	2017	86,861.00	
+French Polynesia	2017	199.00	
+Gabon	2005	269.00	
+Gambia, The	2017	162.00	
+Georgia	2017	6,483.00	
+Germany	2017	37,452.00	
+Ghana	2015	897.00	
+Gibraltar			
+Greece	2017	27,194.00	
+Greenland			
+Grenada	2017	168.00	
+Guam	2017	1,544.00	
+Guatemala	2017	2,113.00	
+Guinea	2016	60.00	
+Guinea-Bissau	2015	43.80	
+Guyana	2017	247.00	
+Haiti	2017	467.00	
+Honduras	2017	851.00	
+Hong Kong SAR, China	2017	27,884.00	
+Hungary	2017	5,650.00	
+Iceland	2017	2,225.00	
+India	2017	15,543.00	
+Indonesia	2017	14,040.00	
+Iran, Islamic Rep.	2017	4,867.00	
+Iraq	2013	892.00	
+Ireland	2017	10,338.00	
+Isle of Man			
+Israel	2017	3,613.00	
+Italy	2017	58,253.00	
+Jamaica	2017	2,353.00	
+Japan	2017	28,691.00	
+Jordan	2017	3,843.50	
+Kazakhstan	2017	7,701.00	
+Kenya	2017	1,364.00	
+Kiribati	2017	5.80	
+Korea, Dem. People?s Rep.			
+Korea, Rep.	2017	13,336.00	
+Kosovo			
+Kuwait	2013	307.00	
+Kyrgyz Republic	2017	4,568.00	
+Lao PDR	2017	3,257.00	
+Latvia	2017	1,949.00	
+Lebanon	2017	1,857.00	
+Lesotho	2017	1,137.00	
+Liberia			
+Libya	2008	34.00	
+Liechtenstein	2017	69.00	
+Lithuania	2017	2,523.00	
+Luxembourg	2017	1,046.00	
+Macao SAR, China	2017	17,255.00	
+Madagascar	2017	255.00	
+Malawi	2017	837.00	
+Malaysia	2017	25,948.00	
+Maldives	2017	1,390.00	
+Mali	2017	193.30	
+Malta	2017	2,274.00	
+Marshall Islands	2017	6.00	
+Mauritania	2000	30.00	
+Mauritius	2017	1,342.00	
+Mexico	2017	39,291.00	
+Micronesia, Fed. Sts.	2016	29.60	
+Moldova	2017	145.00	
+Monaco	2017	355.00	
+Mongolia	2017	469.00	
+Montenegro	2017	1,877.00	
+Morocco	2017	11,349.00	
+Mozambique	2017	1,447.00	
+Myanmar	2017	3,443.00	
+Namibia	2017	1,499.00	
+Nauru			
+Nepal	2017	940.00	
+Netherlands	2017	17,924.00	
+New Caledonia	2017	121.00	
+New Zealand	2017	3,555.00	
+Nicaragua	2017	1,787.00	
+Niger	2017	164.00	
+Nigeria	2016	1,889.00	
+North Macedonia	2017	631.00	
+Northern Mariana Islands	2017	656.00	
+Norway	2017	6,252.00	
+Oman	2017	2,372.00	
+Pakistan	2012	966.00	
+Palau	2017	123.00	
+Panama	2017	1,843.00	
+Papua New Guinea	2016	179.00	
+Paraguay	2017	1,584.00	
+Peru	2017	4,032.00	
+Philippines	2017	6,621.00	
+Poland	2017	18,258.00	
+Portugal	2017	15,432.00	
+Puerto Rico	2017	3,797.00	
+Qatar	2017	2,256.50	
+Romania	2017	10,926.00	
+Russian Federation	2017	24,390.00	
+Rwanda	2016	932.00	
+Samoa	2017	146.00	
+San Marino	2017	78.00	
+Sao Tome and Principe	2016	29.00	
+Saudi Arabia	2017	16,109.00	
+Senegal	2017	1,365.00	
+Serbia	2017	1,497.00	
+Seychelles	2017	350.00	
+Sierra Leone	2016	55.00	
+Singapore	2017	13,903.00	
+Sint Maarten (Dutch part)	2017	402.00	
+Slovak Republic	2017	2,162.00	
+Slovenia	2017	3,586.00	
+Solomon Islands	2017	25.70	
+Somalia			
+South Africa	2017	10,285.00	
+South Sudan			
+Spain	2017	81,786.00	
+Sri Lanka	2017	2,116.40	
+St. Kitts and Nevis	2015	122.00	
+St. Lucia	2017	386.00	
+St. Martin (French part)			
+St. Vincent and the Grenadines	2017	76.00	
+Sudan	2017	813.00	
+Suriname	2017	278.00	
+Sweden	2017	7,054.00	
+Switzerland	2017	9,889.00	
+Syrian Arab Republic	2011	5,070.00	
+Tajikistan	2017	431.00	
+Tanzania	2017	1,275.00	
+Thailand	2017	35,592.00	
+Timor-Leste	2017	74.00	
+Togo	2017	496.00	
+Tonga	2017	62.50	
+Trinidad and Tobago	2017	395.00	
+Tunisia	2017	7,052.00	
+Turkey	2017	37,601.00	
+Turkmenistan	2007	8.20	
+Turks and Caicos Islands	2017	416.40	
+Tuvalu	2017	2.50	
+Uganda	2017	1,402.00	
+Ukraine	2017	14,230.00	
+United Arab Emirates	2005	7,126.00	
+United Kingdom	2017	37,651.00	
+United States	2017	76,941.00	
+Uruguay	2017	3,674.00	
+Uzbekistan	2017	2,690.00	
+Vanuatu	2017	109.00	
+Venezuela, RB	2017	427.00	
+Vietnam	2017	12,922.00	
+Virgin Islands (U.S.)	2016	667.00	
+West Bank and Gaza	2017	503.00	
+Yemen, Rep.	2015	366.70	
+Zambia	2017	1,083.00	
+Zimbabwe	2017	2,423.00
+Country	Most Recent Year	Most Recent Value
+(Millions)	
+Afghanistan	2017	132.00	
+Albania	2017	1,472.00	
+Algeria	2017	632.00	
+American Samoa			
+Andorra			
+Angola	2017	1,216.00	
+Antigua and Barbuda	2017	106.00	
+Argentina	2017	13,516.00	
+Armenia	2017	1,325.00	
+Aruba	2017	362.00	
+Australia	2017	39,491.00	
+Austria	2017	12,878.00	
+Azerbaijan	2017	2,803.00	
+Bahamas, The	2017	554.00	
+Bahrain	2017	1,823.00	
+Bangladesh	2017	1,118.00	
+Barbados	2013	78.00	
+Belarus	2017	1,082.00	
+Belgium	2017	22,995.00	
+Belize	2017	53.00	
+Benin	2016	87.00	
+Bermuda	2017	369.00	
+Bhutan	2017	61.00	
+Bolivia	2017	1,017.00	
+Bosnia and Herzegovina	2017	257.00	
+Botswana	2017	276.30	
+Brazil	2017	22,991.00	
+British Virgin Islands	1995	40.00	
+Brunei Darussalam	2017	504.00	
+Bulgaria	2017	2,047.00	
+Burkina Faso	2016	176.00	
+Burundi	2017	24.00	
+Cabo Verde	2017	90.00	
+Cambodia	2017	919.00	
+Cameroon	2017	845.00	
+Canada	2017	31,816.00	
+Cayman Islands	2016	166.00	
+Central African Republic	2013	69.80	
+Chad	2002	80.00	
+Channel Islands			
+Chile	2017	2,982.00	
+China	2017	257,733.00	
+Colombia	2017	5,136.00	
+Comoros	2012	36.30	
+Congo, Dem. Rep.	2017	68.00	
+Congo, Rep.	2016	457.00	
+Costa Rica	2017	1,129.00	
+Cote d'Ivoire	2016	491.00	
+Croatia	2017	1,399.00	
+Cuba			
+Curacao	2017	457.00	
+Cyprus	2017	1,781.00	
+Czech Republic	2017	5,518.00	
+Denmark	2017	9,640.00	
+Djibouti	2017	39.70	
+Dominica	2017	26.00	
+Dominican Republic	2017	941.00	
+Ecuador	2017	1,087.00	
+Egypt, Arab Rep.	2017	2,419.00	
+El Salvador	2017	466.00	
+Equatorial Guinea	2001	30.00	
+Eritrea			
+Estonia	2017	1,398.00	
+Eswatini	2017	74.00	
+Ethiopia	2017	363.50	
+Faroe Islands			
+Fiji	2017	138.00	
+Finland	2017	6,675.00	
+France	2017	50,329.00	
+French Polynesia	2016	226.00	
+Gabon	2012	441.00	
+Gambia, The	2017	45.50	
+Georgia	2017	853.00	
+Germany	2017	97,597.00	
+Ghana	2017	1,581.00	
+Gibraltar			
+Greece	2017	3,308.00	
+Greenland			
+Grenada	2017	35.00	
+Guam			
+Guatemala	2017	1,010.00	
+Guinea	2017	15.80	
+Guinea-Bissau	2016	33.00	
+Guyana	2016	103.00	
+Haiti	2017	485.00	
+Honduras	2017	517.00	
+Hong Kong SAR, China	2017	25,388.00	
+Hungary	2017	2,975.00	
+Iceland	2017	1,664.00	
+India	2017	21,856.00	
+Indonesia	2017	10,945.00	
+Iran, Islamic Rep.	2016	9,893.00	
+Iraq	2016	5,027.00	
+Ireland	2017	6,612.00	
+Isle of Man			
+Israel	2017	8,985.00	
+Italy	2017	27,883.00	
+Jamaica	2017	471.00	
+Japan	2017	18,177.00	
+Jordan	2017	1,496.00	
+Kazakhstan	2017	1,886.00	
+Kenya	2017	262.00	
+Kiribati	2016	8.80	
+Korea, Dem. People?s Rep.			
+Korea, Rep.	2017	33,354.00	
+Kosovo			
+Kuwait	2017	13,722.00	
+Kyrgyz Republic	2017	422.00	
+Lao PDR	2017	989.00	
+Latvia	2017	814.00	
+Lebanon	2017	5,705.00	
+Lesotho	2017	193.00	
+Liberia	2009	51.00	
+Libya	2016	813.00	
+Liechtenstein			
+Lithuania	2017	1,312.00	
+Luxembourg	2017	3,033.00	
+Macao SAR, China	2017	1,244.00	
+Madagascar	2017	319.00	
+Malawi	2017	120.00	
+Malaysia	2017	10,699.00	
+Maldives	2017	365.00	
+Mali	2015	150.00	
+Malta	2017	472.00	
+Marshall Islands	2016	27.00	
+Mauritania	2017	61.00	
+Mauritius	2017	738.00	
+Mexico	2017	13,648.00	
+Micronesia, Fed. Sts.	2014	29.00	
+Moldova	2017	381.00	
+Monaco			
+Mongolia	2017	618.00	
+Montenegro	2017	91.00	
+Morocco	2017	2,829.00	
+Mozambique	2017	237.00	
+Myanmar	2017	136.00	
+Namibia	2017	79.00	
+Nauru			
+Nepal	2017	889.00	
+Netherlands	2017	22,044.00	
+New Caledonia	2016	252.00	
+New Zealand	2017	4,445.00	
+Nicaragua	2017	364.00	
+Niger	2016	111.00	
+Nigeria	2017	8,181.00	
+North Macedonia	2017	233.00	
+Northern Mariana Islands			
+Norway	2017	17,800.00	
+Oman	2017	2,916.00	
+Pakistan	2017	3,223.00	
+Palau	2016	23.80	
+Panama	2017	1,128.00	
+Papua New Guinea	2017	165.00	
+Paraguay	2017	545.00	
+Peru	2017	2,916.00	
+Philippines	2017	12,786.00	
+Poland	2017	9,567.00	
+Portugal	2017	5,647.00	
+Puerto Rico	2017	1,035.00	
+Qatar	2017	12,284.00	
+Romania	2017	4,228.00	
+Russian Federation	2017	35,585.00	
+Rwanda	2017	347.00	
+Samoa	2017	3.50	
+San Marino			
+Sao Tome and Principe	2017	17.20	
+Saudi Arabia	2017	18,745.00	
+Senegal	2014	279.00	
+Serbia	2017	1,548.00	
+Seychelles	2017	104.00	
+Sierra Leone	2016	37.00	
+Singapore	2017	24,543.00	
+Sint Maarten (Dutch part)	2017	100.00	
+Slovak Republic	2017	2,597.00	
+Slovenia	2017	1,141.00	
+Solomon Islands	2017	72.70	
+Somalia			
+South Africa	2017	6,064.00	
+South Sudan	2017	108.00	
+Spain	2017	22,321.00	
+Sri Lanka	2017	2,409.00	
+St. Kitts and Nevis	2017	53.00	
+St. Lucia	2017	80.00	
+St. Martin (French part)			
+St. Vincent and the Grenadines	2017	34.00	
+Sudan	2017	29.00	
+Suriname	2017	99.00	
+Sweden	2017	17,097.00	
+Switzerland	2017	19,494.00	
+Syrian Arab Republic	2011	850.00	
+Tajikistan	2017	16.10	
+Tanzania	2017	899.00	
+Thailand	2017	11,579.00	
+Timor-Leste	2017	137.00	
+Togo	2016	55.00	
+Tonga	2017	37.70	
+Trinidad and Tobago	2017	147.00	
+Tunisia	2017	871.00	
+Turkey	2017	5,181.00	
+Turkmenistan	1997	127.00	
+Turks and Caicos Islands	2016	6.70	
+Tuvalu	2013	7.55	
+Uganda	2017	311.00	
+Ukraine	2017	7,543.00	
+United Arab Emirates	2017	17,645.00	
+United Kingdom	2017	71,671.00	
+United States	2017	173,919.00	
+Uruguay	2017	1,356.00	
+Uzbekistan			
+Vanuatu	2015	34.00	
+Venezuela, RB	2016	2,920.00	
+Vietnam	2017	5,040.00	
+Virgin Islands (U.S.)			
+West Bank and Gaza	2017	773.00	
+Yemen, Rep.	2016	56.00	
+Zambia	2017	410.00	
+Zimbabwe	2017	338.00
