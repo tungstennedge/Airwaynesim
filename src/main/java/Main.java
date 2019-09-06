@@ -52,7 +52,7 @@ public class Main {
 
 
     }
-    public static List<Route> makeTestRoutes(List<Airport> airports, List<Route> routes, Map<String,Country> countryMap,Map<String,String> countryCodes){
+    private static List<Route> makeTestRoutes(List<Airport> airports, List<Route> routes, Map<String, Country> countryMap, Map<String, String> countryCodes){
         Times t = new Times(1,1,1,1,1);
 
         Airport airport2 = airports.get(0);
