@@ -42,12 +42,11 @@ public class Main {
             System.out.println(entry.getKey() + " corresponds to " + entry.getValue());
         }
 
-        for (int j = 0; j < airports.size(); j++) {
-            Airport airport = airports.get(j);
-            airports.get(j).setLon();
-            airports.get(j).setLat();
+        for (Airport airport : airports) {
+            airport.setLon();
+            airport.setLat();
 
-            airport.setPopulationInRadius(calcPopInRadius(airport.getLat(),airport.getLon(),mapHeight,mapWidth,bufferedImage));
+            airport.setPopulationInRadius(calcPopInRadius(airport.getLat(), airport.getLon(), mapHeight, mapWidth, bufferedImage));
         }
          routes = makeTestRoutes(airports, routes, countryMap,countryCodes);
 
