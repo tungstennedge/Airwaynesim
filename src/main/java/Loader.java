@@ -30,19 +30,25 @@ public class Loader {
     static List<Route> makeTestRoutes(List<Airport> airports, List<Route> routes, Map<String, Country> countryMap, Map<String, String> countryCodes){
         Times t = new Times(1,1,1,1,1);
 
-        Airport airport2 = airports.get(0);
-        String countryKey2 = airport2.getCountryKey();
-        String country2 = countryCodes.get(countryKey2);
 
 
         for (int i = 1; i <airports.size() ; i++) {
-            Airport airport = airports.get(i);
-            String countryKey = airport.getCountryKey();
-            String country = countryCodes.get(countryKey);
+            Airport airport2 = airports.get(i);
+            String countryKey2 = airport2.getCountryKey();
+            String country2 = countryCodes.get(countryKey2);
+            for (int j = 0; j < airports.size(); j++) {
 
-            Route newRoute = new Route(airports.get(0), airports.get(i),country2,country,t);
-            newRoute.setBasePAXNumber(countryMap);
-            routes.add(newRoute);
+
+
+                Airport airport = airports.get(j);
+                String countryKey = airport.getCountryKey();
+                String country = countryCodes.get(countryKey);
+
+                Route newRoute = new Route(airports.get(i), airports.get(j), country2, country, t);
+                System.out.println("route " + airport2.getName() + " to " + airport.getName());
+                newRoute.setBasePAXNumber(countryMap);
+                routes.add(newRoute);
+            }
         }
         return routes;
     }
@@ -191,6 +197,7 @@ public class Loader {
 
                         String[] parse2 = line.split("[\\d+]");
                         String name = parse2[0].trim();
+                System.out.println("innitiated country: " + name);
 
                         String restOfStuff = line.substring(name.length()).trim();
                         String[] parse3 = restOfStuff.split("\\s");

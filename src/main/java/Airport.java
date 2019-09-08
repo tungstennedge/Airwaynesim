@@ -26,7 +26,7 @@ public class Airport {
         this.passengerInitial = passengerInitial;
         this.infolink = infolink;
         this.homeLink = homeLink;
-        catchmentRadius = 7+(float)Math.sqrt(passengerInitial)/1000;
+        catchmentRadius = 4+(float)Math.sqrt(passengerInitial)/1000;
         if(catchmentRadius>= 17) {
         catchmentRadius = 17;
         }
