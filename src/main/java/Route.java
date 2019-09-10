@@ -29,11 +29,15 @@ public class Route {
 
     }
 
+    public Route() {
+    }
+
     public void setBasePAXNumber(Map<String,Country> countryMap) {
         //System.out.println(countryMap.get(originCountry).getName());
         if (countryMap.get(originCountry) != null && countryMap.get(arrivalCountry) != null) {
         float populationInRadDeparture = departureAirport.populationInRadius;
         float populationInRadDestination = destinationAirport.populationInRadius;
+
         float timeModifier = 1;
         if (timeOfArrival.getDayOfWeek() == 1 || timeOfArrival.getDayOfWeek() == 5) {
             timeModifier = (float) 1.3;
@@ -62,12 +66,15 @@ public class Route {
             if (tourismExpenditure == 0) {
                 tourismExpenditure = gdpOfArrival / 1000 + 1;
             }
-            System.out.println("tourism expend in " + countryMap.get(arrivalCountry).getName() + " " + tourismExpenditure);
+            //System.out.println("tourism expend in " + countryMap.get(arrivalCountry).getName() + " " + tourismExpenditure);
 
-            float tourismExpendRatio = tourismExpenditure * 1000 / countryMap.get(arrivalCountry).getPopulation() / countryMap.get(arrivalCountry).getGpdPerCapita();
+            float tourismExpendRatioDeparture = gpdOfDepature*1000/countryMap.get(originCountry).getPopulation()/countryMap.get(originCountry).getGpdPerCapita();
+            float tourismExpendRatio = tourismExpenditure*1000 / countryMap.get(arrivalCountry).getPopulation() / countryMap.get(arrivalCountry).getGpdPerCapita();
             float baseTravel = (populationInRadDeparture * gpdOfDepature) + (populationInRadDestination * gdpOfArrival);
+
+
             baseTravel *= tourismExpendRatio;
-            System.out.println(tourismExpendRatio);
+            //System.out.println(tourismExpendRatio);
             if (range == 0) {
                 range = 200;
             }
@@ -76,7 +83,7 @@ public class Route {
             }
             baseTravel /= ((range));
             baseTravel *= timeModifier;
-            baseTravel /= 10;
+            baseTravel /=10;
             if (isDomestic) {
                 baseTravel *= 3;
             }
@@ -84,10 +91,6 @@ public class Route {
             basePaxNum = baseTravel;
             System.out.println(("base Travel of : " + departureAirport.getName() + " to " + destinationAirport.getName() + " " + baseTravel));
 
-        }else if(countryMap.get(originCountry)==null){
-            System.out.println(originCountry + " is null");
-        }else if(countryMap.get(arrivalCountry)==null){
-            System.out.println(arrivalCountry + " is null");
         }
         }
 

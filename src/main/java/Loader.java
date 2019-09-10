@@ -32,7 +32,7 @@ public class Loader {
 
 
 
-        for (int i = 1; i <airports.size() ; i++) {
+        for (int i = 0; i <5 ; i++) {
             Airport airport2 = airports.get(i);
             String countryKey2 = airport2.getCountryKey();
             String country2 = countryCodes.get(countryKey2);
@@ -45,7 +45,7 @@ public class Loader {
                 String country = countryCodes.get(countryKey);
 
                 Route newRoute = new Route(airports.get(i), airports.get(j), country2, country, t);
-                System.out.println("route " + airport2.getName() + " to " + airport.getName());
+                //System.out.println("route " + airport2.getName() + " to " + airport.getName());
                 newRoute.setBasePAXNumber(countryMap);
                 routes.add(newRoute);
             }
@@ -53,9 +53,10 @@ public class Loader {
         return routes;
     }
 
-    public static float calcPopInRadius(float lattitude, float longditude, int height, int width, BufferedImage popmap) throws IOException {
+    public static float calcPopInRadius(float lattitude, float longditude, int height, int width, BufferedImage popmap, int radius) throws IOException {
         int pixely = 0;
         int pixelx = 0;
+        int catchrad = radius;
         //finds x/y pixels
 
         if (lattitude >= 0) {
@@ -75,7 +76,7 @@ public class Loader {
 
         }
         // conbensation for mercader wackness
-        int trueRad = (int) (20 * (1 / (cos(Math.toRadians(lattitude)))));
+        int trueRad = (int) (catchrad * (1 / (cos(Math.toRadians(lattitude)))));
 
 
 
@@ -422,6 +423,12 @@ public class Loader {
         }
         return img;
 
+    }
+    public static void setAirportsInRadius(List<Airport> airports){
+        for (Airport airport:airports
+             ) {
+            airport.setAirportsInRad(airports);
+        }
     }
 
 }

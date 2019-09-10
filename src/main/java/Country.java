@@ -39,4 +39,10 @@ class Country{
     public int getPopulation(){
         return population;
     }
+    public float getArrivals(){
+        return arrivals;
+    }
+    public float getDepartures(){
+        return departures;
+    }
 }

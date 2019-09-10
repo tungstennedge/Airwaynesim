@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class Airport {
     String icac, name, iata, countrykey, latti,longi, municipality, type;
     int altitude, runwayLength, passengerInitial;
@@ -6,6 +9,7 @@ public class Airport {
     float catchmentRadius;
     float populationInRadius;
     String realNameOfOriginCountry;
+    List<String> airportsInRad = new ArrayList<>();
 
     int popInRad;
     float lat, lon;
@@ -87,6 +91,28 @@ public class Airport {
         }
 
     }
+    public void setAirportsInRad(List<Airport> airports){
+        for (int i = 0; i < airports.size(); i++) {
+            Airport a = airports.get(i);
+            float alat = a.getLat();
+            float alon = a.getLon();
+            int rad = a.getCatchmentRadius();
+            double range = 1.609 * 3963.0 * Math.acos((Math.sin(alat) * Math.sin(lat)) + Math.cos(alat) * Math.cos(lat) * Math.cos(lon - alon));
+            float realRange = (float)range;
+            if(range < 1200){
+              realRange = Helper.kmToPixels((float)range, lat);
+            }
+            if(realRange<rad+catchmentRadius){
+                airportsInRad.add(a.getName());
+            }
+
+        }
+        System.out.println(name + " Has these airports in its radius ");
+        for (String airport:airportsInRad) {
+
+            System.out.println(airport);
+        }
+    }
     public void setPopulationInRadius(float pop){
 
         populationInRadius = pop;
@@ -105,6 +131,7 @@ public class Airport {
     public String getCountryKey(){
         return  countrykey;
     }
+
 
 
 

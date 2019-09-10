@@ -23,6 +23,8 @@ public class Main {
         Map<String,String> countryCodes = new HashMap<>();
         countryCodes = Loader.setCountryCodes(countryMap,countryCodes);
         List<Route> routes = new ArrayList<>();
+        Map<Airline, ArrayList<airlineRoute>> routeMap = new HashMap<>();
+        Loader.setAirportsInRadius(airports);
 
         int mapHeight;
         mapHeight = bufferedImage.getHeight();
@@ -35,8 +37,9 @@ public class Main {
         for (Airport airport : airports) {
             airport.setLon();
             airport.setLat();
+            int rad = airport.getCatchmentRadius();
 
-            airport.setPopulationInRadius(Loader.calcPopInRadius(airport.getLat(), airport.getLon(), mapHeight, mapWidth, bufferedImage));
+            airport.setPopulationInRadius(Loader.calcPopInRadius(airport.getLat(), airport.getLon(), mapHeight, mapWidth, bufferedImage, rad));
         }
          routes = Loader.makeTestRoutes(airports, routes, countryMap,countryCodes);
 
