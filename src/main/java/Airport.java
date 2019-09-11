@@ -91,28 +91,36 @@ public class Airport {
         }
 
     }
-    public void setAirportsInRad(List<Airport> airports){
-        for (int i = 0; i < airports.size(); i++) {
-            Airport a = airports.get(i);
+    public void setAirportsInRad(List<Airport> airports) {
+        for (Airport a : airports
+        ) {
+
             float alat = a.getLat();
             float alon = a.getLon();
             int rad = a.getCatchmentRadius();
-            double range = 1.609 * 3963.0 * Math.acos((Math.sin(alat) * Math.sin(lat)) + Math.cos(alat) * Math.cos(lat) * Math.cos(lon - alon));
-            float realRange = (float)range;
-            if(range < 1200){
-              realRange = Helper.kmToPixels((float)range, lat);
-            }
-            if(realRange<rad+catchmentRadius){
-                airportsInRad.add(a.getName());
+            float range = (float)Helper.getRange(lat,alat,lon,alon);
+            //System.out.println("range between " + a.getName() + " and " + name + " is " + range);
+            float realRange = (float) range;
+            if (range < 1200) {
+                realRange = Helper.kmToPixels((float) range, lat);
+                if (realRange < rad + catchmentRadius) {
+                    System.out.println(range);
+                    airportsInRad.add(a.getName());
+                }
             }
 
         }
-        System.out.println(name + " Has these airports in its radius ");
-        for (String airport:airportsInRad) {
-
-            System.out.println(airport);
+        System.out.println("airport " + name + " has follwing airports in radius");
+        for (String s:airportsInRad
+             ) {
+            System.out.println(s);
         }
     }
+
+
+
+
+
     public void setPopulationInRadius(float pop){
 
         populationInRadius = pop;

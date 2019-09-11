@@ -20,17 +20,17 @@ public class Main {
         airports = Loader.loadAirports(airports);
         bufferedImage = Loader.loadBufferedImage(bufferedImage);
         airports = Loader.setAirportCountries(airports, countryMap);
-        Map<String,String> countryCodes = new HashMap<>();
-        countryCodes = Loader.setCountryCodes(countryMap,countryCodes);
+        Map<String, String> countryCodes = new HashMap<>();
+        countryCodes = Loader.setCountryCodes(countryMap, countryCodes);
         List<Route> routes = new ArrayList<>();
         Map<Airline, ArrayList<airlineRoute>> routeMap = new HashMap<>();
-        Loader.setAirportsInRadius(airports);
+
 
         int mapHeight;
         mapHeight = bufferedImage.getHeight();
         int mapWidth;
         mapWidth = bufferedImage.getWidth();
-        for (Map.Entry<String,String> entry : countryCodes.entrySet()) {
+        for (Map.Entry<String, String> entry : countryCodes.entrySet()) {
             System.out.println(entry.getKey() + " corresponds to " + entry.getValue());
         }
 
@@ -41,9 +41,19 @@ public class Main {
 
             airport.setPopulationInRadius(Loader.calcPopInRadius(airport.getLat(), airport.getLon(), mapHeight, mapWidth, bufferedImage, rad));
         }
-         routes = Loader.makeTestRoutes(airports, routes, countryMap,countryCodes);
+        routes = Loader.makeTestRoutes(airports, routes, countryMap, countryCodes);
 
+        Loader.setAirportsInRadius(airports);
+       /*float lat1 = airports.get(0).getLat();
+        float long1 = airports.get(0).getLon();
 
+        for (Airport a:airports
+             ) {
+            float lat2 =a.getLat();
+            float long2 = a.getLon();
+            System.out.println("range between atlanta to " + a.getName() + " Is "+ Helper.getRange(lat1,lat2,long1,long2));
+        }
+    }*/
     }
 
 

@@ -11,4 +11,14 @@ public class Helper {
          int pixels = (int)(km/24/kFactor);
          return pixels;
     }
+    public static double getRange(float lat1, float lat2, float long1, float long2){
+        lat1 = (float)Math.toRadians(lat1);
+        lat2 = (float)Math.toRadians(lat2);
+        long1 = (float)Math.toRadians(long1);
+        long2 = (float)Math.toRadians(long2);
+
+
+        double range = 1.609 * 3963.0 * Math.acos((Math.sin(lat1) * Math.sin(lat2)) + Math.cos(lat1) * Math.cos(lat2) * Math.cos(long2 - long1));
+        return range;
+    }
 }
